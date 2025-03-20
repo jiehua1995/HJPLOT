@@ -1,2 +1,2 @@
 # HJPLOT
-Custom package for plotting with R.
+Custom package for plotting.
